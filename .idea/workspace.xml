@@ -5,15 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afefbbb9-7ce3-4568-9168-3277c2fdda27" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2.var_5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/var_5/Formula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/var_5/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitigore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab2.var_5/lab2/var_5/Formula.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab2.var_5/lab2/var_5/MainFrame$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab2.var_5/lab2/var_5/MainFrame$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab2.var_5/lab2/var_5/MainFrame$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab2.var_5/lab2/var_5/MainFrame$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab2.var_5/lab2/var_5/MainFrame$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab2.var_5/lab2/var_5/MainFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2/var_5/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireworks.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2/var_5/fireworks.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2.var_5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2/var_5/lab2.var_5.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +32,33 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="dev" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alyonagsv&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/alyonagsv/java-lab-2.git&quot;,
+    &quot;accountId&quot;: &quot;2738d272-c8be-4f80-a396-0651187f2cd7&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -39,16 +68,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.MainFrame.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "D:/уник/прога 3 сем/Java/lab2.var_5/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.MainFrame.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/уник/прога 3 сем/Java/lab2.var_5&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/уник/прога 3 сем/Java/lab2.var_5/src/Main.java&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\уник\прога 3 сем\Java\lab2.var_5\src\lab2\var_5" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
